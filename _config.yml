@@ -2,3 +2,8 @@ name: Yifan Guan
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-cayman
+
+# pagination
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 5
+paginate_path: "page/:num/"
