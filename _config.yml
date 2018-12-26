@@ -1,9 +1,26 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 name: Yifan Guan
+title: Yifan Guan
+email: yfguan@umich.com
 markdown: kramdown
+theme: minima
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-cayman
+baseurl: "/"
 
 # pagination
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 5
 paginate_path: "page/:num/"
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+global_css: '/css/website.css'
+avatar: '/images/profile.jpg'
+# cv: '/resources/cv.html'
