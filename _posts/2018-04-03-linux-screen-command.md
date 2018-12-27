@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linux Screen command"
-date:   2018-12-14
+date:   2018-04-03
 categories: experience
 ---
 
@@ -35,7 +35,7 @@ screen -r
 ```
 
 6. kill screen once your tasks are done:
-<num>: gotten from (screen -list)
+{num}: gotten from (screen -list)
 ```sh
-screen -S <num> -X quit
+screen -S {num} -X quit
 ```
