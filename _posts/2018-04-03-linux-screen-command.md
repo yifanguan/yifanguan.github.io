@@ -13,29 +13,29 @@ I recalled the linux screen command I read online previously. It solved my probl
 
 # Usage
 1. Install:
-```sh
+```bash
 sudo apt install screen
 ```
 
 2. Open a screen:
-```sh
+```bash
 screen
 ```
 
 3. Perform tasks you want to perform in the ways you do in other terminals
 
 4. detach the screen: 
-```sh
+```bash
 ctrl + a + d
 ```
 
 5. resume: (This gives you the powerful to resume your results) 
-```sh
+```bash
 screen -r
 ```
 
-6. kill screen once your tasks are done:
+6. kill screen once your tasks are done: <br />
 {num}: gotten from (screen -list)
-```sh
+```bash
 screen -S {num} -X quit
 ```
