@@ -14,12 +14,12 @@ I recalled the linux screen command I read online previously. It solved my probl
 # Usage
 1. Install:
 ```bash
-sudo apt install screen
+$ sudo apt install screen
 ```
 
 2. Open a screen:
 ```bash
-screen
+$ screen
 ```
 
 3. Perform tasks you want to perform in the ways you do in other terminals
@@ -31,11 +31,11 @@ ctrl + a + d
 
 5. resume: (This gives you the powerful to resume your results) 
 ```bash
-screen -r
+$ screen -r
 ```
 
 6. kill screen once your tasks are done: <br />
 {num}: gotten from (screen -list)
 ```bash
-screen -S {num} -X quit
+$ screen -S {num} -X quit
 ```
