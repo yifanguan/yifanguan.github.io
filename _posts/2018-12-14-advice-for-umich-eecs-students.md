@@ -45,7 +45,7 @@ SURE program is a
 ## Internship Advice
 # Get interview
 Umich Career Fair is a great resource to utilize. You can find out information online or ask other senior students which company will have on-campus interviews. 
-The most important thing is to find employee in your target companys to refer you for internship positions. Personally, I recommend you to use Linkedin. 
+The most important thing is to find employee in your target companys to refer you for internship positions. Personally, I recommend you to use Linkedin. It takes time to find someone willing to refer you. Please be patient.
 
 # Prepare for interview
 [Leetcode](https://www.leetcode.com/) is a great platform to help you prepare for technical interviews. I high recommend you to buy its yearly premium membership. With premium membership, you could practice technical interview questions based on company tags. 
