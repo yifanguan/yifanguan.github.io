@@ -9,7 +9,7 @@ categories: notes
 ReLU: Rectified Linear Unit
 
 Structured Data: Database format data
-![Structured Data](../post_data/deeplearning/specialization1/structured.png)
+![Structured Data](/post_data/deeplearning/specialization1/structured.png)
 
 Unstructured Data:
-![Unstructured Data](../post_data/deeplearning/specialization1/unstructured.png)
+![Unstructured Data](/post_data/deeplearning/specialization1/unstructured.png)
