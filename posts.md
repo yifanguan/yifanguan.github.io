@@ -5,4 +5,5 @@ title: Blog
 permalink: /posts/
 ---
 
-Share my ideas and thoughts
+Share my ideas and thoughts.
+I know there are typos. :)
