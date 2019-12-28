@@ -15,13 +15,20 @@ Professor: Prof. H.V. Jagadish
 
 Platform: Coursera 
 
-# Week1
+# Week 1
+### What are Ethics?
+Nowadays, Data Science is young field. Big Data has a large impact on society. We are on the way to figure out the impact. 
+Having other data scientists think about ethics in our field. 
 
 
-# Week2
+### History, Concept of Informed Consent
 
 
-# Week3
+### Data Ownership
+
+# Week 2
+
+# Week 3
 
 
-# Week4
+# Week 4
