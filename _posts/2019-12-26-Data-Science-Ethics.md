@@ -19,7 +19,11 @@ Platform: Coursera
 ### What are Ethics?
 Nowadays, Data Science is young field. Big Data has a large impact on society. We are on the way to figure out the impact. 
 Having other data scientists think about ethics in our field. 
+We haven't had soceital agreement about ethics in data science. 
+Ethics are shared rules we all agree to follow because of the resulting benefits. 
+There is virtually no limit to what Data Science could do with data. 
 
+Important: identify shared value
 
 ### History, Concept of Informed Consent
 
