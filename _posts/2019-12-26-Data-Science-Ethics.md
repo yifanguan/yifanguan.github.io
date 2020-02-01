@@ -78,8 +78,26 @@ Case study: Rate My Professor, Privacy After Bankruptcy
 
 
 # Week 2
+### Privacy
+Privacy is a basic human need. Privacy makes you feel comfortable. It also has societal benefits, such as anonymous voting.
+Today, if you have to establish a wiretap, you need to get a warrant.
+Voluntary disclosure: anything you voluntarily disclose to others has much less protection than any thing you keep completely to yourself. 
+
+Big data is universal and never forgets anything.
+
+
+ 
+### Anonymity
+
 
 # Week 3
+### Data Validity
+
+### Algorithmic Fairness
 
 
 # Week 4
+### Societal Consequences
+
+### Code of Ethics
+
