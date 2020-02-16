@@ -9,7 +9,7 @@
 title: Yifan Guan
 email: yfguan@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Copyright: 2018 Yifan Guan
+  Copyright: 2020 Yifan Guan
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 version: 1.0.0
@@ -26,7 +26,7 @@ plugins:
   - jekyll-feed
 
 global_css: '/static/website.css'
-avatar: '/static/avatar.jpg'
+avatar: '/static/avatar_2.jpg'
 cv: '/resources/cv.html'
 
 # Exclude from processing.
