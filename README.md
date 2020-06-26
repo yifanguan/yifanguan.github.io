@@ -1,3 +1,1 @@
-# yifanguan
-
-Yifan Guan's Personal Website
+# Yifan Guan Personal Website

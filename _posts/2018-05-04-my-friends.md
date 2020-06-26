@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Friends"
+title:  "My Clever Friends"
 date:   2018-05-04
 categories: collections
 ---
