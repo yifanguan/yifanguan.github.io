@@ -86,7 +86,7 @@ Voluntary disclosure: anything you voluntarily disclose to others has much less 
 Big data is universal and never forgets anything.
 
 
- 
+
 ### Anonymity
 
 
@@ -94,10 +94,58 @@ Big data is universal and never forgets anything.
 ### Data Validity
 
 ### Algorithmic Fairness
+Algorithms can be biased. 
+- Training data is not representative of the population.
+- Past population is not representative of future population.
+- Confounding processes lead to corrections
 
+Bad Analysis from Good Data
+- Correlated attributes
+- Correct but misleading results
+- P-Hacking
+
+Racial Discrimination: proxy attributes can be found. It is not too hard to find an attribute highly correlated with races to discriminate one race.
+
+Broader sense of discrimination: aggregate outcome (percent success) of target group differs from that of others
+
+Correct but misleading results
+![unfair visualization](/post_data/data_science_ethics/unfair_visualization.png)
+
+Diversity Suppression (Hiring) -- This is a good example!
+- Use Data science to find promising prospects
+- Criteria are tuned to fit the majority
+- Algorithm performs poorly on (some) minorities
+- Best minority applicants are not hired => Unfair to them
+- Hired minority employees are not the best (perform not as well => Unfairly besmirch others in minority)
+
+Diversity Suppression (Medical)
+- Clinical trial of new drug to treat diabetes
+- Patients are actually in two groups, but pooled together because of similar glucose regulation issues
+- Drug is very effective for group A
+- Drug is worthless fr group B
+- What happens?
+- If Group A in majority: (1) Drug is found effective with suitable significance level (2) Patients in group B are also given this drug
+- If Group B in majority: (1) Drug is not found effective with sufficient significance over the whole population (2) Drug is not approved, even though minority (group A) patients could have benefitted from it
+
+P-Hacking
+- Multiple hypothesis testing
+- For a given single hypothesis, a p-value of 0.05 says that there is only a 5% probability of observing values by chance, without the hypothesis being true.
+- What if you test 100 independent hypotheses? 
+- One gene chip can have 20,000 genes.
+
+Unreported Failures
+- Independent hypotheses, tested in parallel, can have statistics developed to correct for multiple tests.
+- What about sequential hypotheses, each slightly different from the previous?
+- E.g. a pharma company develops dozens of dryg candidates, and tests them independently. (Most fairm, a few succeed.)
+
+Algorithmic Fairness
+- Humans have many biases.
+- Biases in algorithms usually easier to measure, even if outcome is no fairer.
+- Mathematical definitions of fainress can be applied, proving fairness, at least within the scope of the assumptions.
 
 # Week 4
 ### Societal Consequences
+
 
 ### Code of Ethics
 
