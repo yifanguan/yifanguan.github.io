@@ -6,6 +6,7 @@ categories: notes
 ---
 
 Prof. Philip Guo
+
 Video Link: https://pg.ucsd.edu/advice-for-first-year-PhD-students.htms
 
 # 1-D model

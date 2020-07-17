@@ -17,10 +17,9 @@ categories: collections
 # [Shengpu Tang](https://shengpu1126.github.io/)
 # [Minxue Niu]()
 # [Junjie Xing](https://xingjunjie.me/blog/)
+# [Tianyi Wu](https://www.wu-tianyi.com/main/)
+
 # Some highlight moment:
 ![huachuan](/post_data/friends/huachuan.jpeg)
 ![zhongqiu_1](/post_data/friends/zhongqiu_1.jpeg)
 ![zhongqiu_2](/post_data/friends/zhongqiu_2.jpeg)
-
-
-# [Tianyi Wu](https://www.wu-tianyi.com/main/)
