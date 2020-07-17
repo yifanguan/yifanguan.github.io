@@ -13,7 +13,7 @@ Link (Edx): https://courses.edx.org/courses/course-v1:MichiganX+DS101x+1T2019/co
 
 Professor: Prof. H.V. Jagadish 
 
-Platform: Coursera 
+Platform I used: Coursera 
 
 We need to have a shared ethical framework.
 
@@ -30,7 +30,7 @@ Important: identify shared value
 ### History, Concept of Informed Consent
 The Tuskegee experiment: uninformed consent
 
-Informed consent: (1) human subject must be informed about the experiment. (2) must consent to the experiment without any coercion (3) must have the right to withdraw consent at any time 
+Informed consent: (1) human subject must be informed about the experiment. (2) must consent to the experiment without any coercion (3) must have the right to withdraw consent at any time
 
 A key principle of informed consent is that the party that might potentially be harmed is the one who has to decide that on balance between risk to them and benefit to society.
 
@@ -66,7 +66,7 @@ You could have data that people freely gave you, and then you could put it all t
 Crowd-sourced reputation sites such as Yelp or TripAdvisor, companies like this all completely have their business model reliant upon people in the community expressing their opinion about businesses that they're rating on these sites. These opinions are freely contributed by people. The key point whether the contributors are compensated or not is that the data that get collected are then the property of these data collectors and aggregators. And it is their collection and their organization and the effort that they put in to create this collection that is a thing that induces value, and they are free to sell ads, or make money off of this data in whatever manner they see fit.
 
 There is a strong reason to record data, but also potential for misuse.
-Prefer to limit use, not recording. 
+Prefer to limit use, not recording.
 Voluntary limits on use
 Government surveillance
 
