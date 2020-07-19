@@ -12,10 +12,10 @@ categories: collections
 
 # [Shibo Chen](https://web.eecs.umich.edu/~chshibo/)
 # [Xinyi Zheng](https://carolzxyzxy.github.io/)
-# [Yunjie Pan]()
+# [Yunjie Pan](https://pyjhzwh.github.io/)
 # [Yin Lin](https://niceirene.github.io/)
 # [Shengpu Tang](https://shengpu1126.github.io/)
-# [Minxue Niu]()
+# [Minxue Niu](https://sannndy0000.github.io/)
 # [Junjie Xing](https://xingjunjie.me/blog/)
 # [Tianyi Wu](https://www.wu-tianyi.com/main/)
 
