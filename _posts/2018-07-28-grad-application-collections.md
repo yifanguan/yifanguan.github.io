@@ -15,5 +15,7 @@ https://www.ronaldazuma.com/hitch4.html
 
 https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
 
+https://taoxie.cs.illinois.edu/advice.htm
+
 # Database
 https://www.cs.cmu.edu/~pavlo/blog/2018/11/an-updated-guide-on-where-to-apply-for-a-phd-in-databases-in-the-us-2018.html
