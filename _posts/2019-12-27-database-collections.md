@@ -17,6 +17,7 @@ categories: collections
 # Database Book collections
 - [Red Book](http://www.redbook.io/)
 - [Cow Book](http://pages.cs.wisc.edu/~dbbook/)
+- [Modern B-Tree Techniques](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf)
 
 # Database Lecture collections
 - [15-445/645 Intro to Database Systems (Fall 2019)](https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
