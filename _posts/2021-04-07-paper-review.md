@@ -7,4 +7,4 @@ categories: review
 
 Under construction
 
-[Test](../paper_review/test.md)
+[Test](/paper_review/test.md)
