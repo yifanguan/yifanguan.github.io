@@ -1,10 +1,7 @@
 ---
-layout: post
-title:  "Test"
-date:   2021-04-07
-categories: review
+layout: page
+title: Test
+permalink: test.html
 ---
 
 Test
-
-![Test](/paper_review/test.md)
